@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-28T17:17:02 IST" name="Default suite" finished-at="2025-02-28T17:19:19 IST" duration-ms="136970">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-02-28T17:17:02 IST" name="Default test" finished-at="2025-02-28T17:19:19 IST" duration-ms="136970">
+      <class name="Runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:17:02 IST" name="setUpClass" finished-at="2025-02-28T17:17:04 IST" duration-ms="1668" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@a80a896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:17:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:17:30 IST" duration-ms="25773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:17:30 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:17:40 IST" duration-ms="9719" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:17:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:18:04 IST" duration-ms="24654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:18:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:18:17 IST" duration-ms="12233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:18:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:18:29 IST" duration-ms="12609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:18:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:18:41 IST" duration-ms="11771" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:18:41 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:18:53 IST" duration-ms="12164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:18:53 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:19:03 IST" duration-ms="9585" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful Login sing excel data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["LoginUsingExcelData Feature"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index 5 out of bounds for length 5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index 5 out of bounds for length 5
+at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+at java.base/java.util.Objects.checkIndex(Objects.java:359)
+at java.base/java.util.ArrayList.get(ArrayList.java:427)
+at StepsDefination.LoginSteps.the_user_navigates_to_my_account_page_by_passing_email_and_passwordwith_excel_row(LoginSteps.java:71)
+at ✽.the user navigates to my account page by passing email and passwordwith excel row "6"(file:///C:/Users/Admin/git/repository2/CucumberFramework/./Features/LoginUsingExcelData.feature:5)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:19:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-28T17:19:13 IST" duration-ms="9940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Successful resgistration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Account Registration Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@1eb6749b]" started-at="2025-02-28T17:19:13 IST" name="tearDownClass" finished-at="2025-02-28T17:19:19 IST" duration-ms="6596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
